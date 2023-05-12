@@ -5,6 +5,11 @@
 ##### This is H5 header
 ###### This is H6 header
 
-![Attack on Titan](https://wallpaperaccess.in/public/uploads/preview/aot-paths-blood-bones-and-memories-subjects-of-ymir-coordinate-founding-titan-tree-h.jpg)
+![Attack on Titan](https://w0.peakpx.com/wallpaper/576/105/HD-wallpaper-eren-jaeger-attack-on-titan-attack-titan-eren-jaeger-titan-thumbnail.jpg)
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
